@@ -1,1 +1,6 @@
-Botão Login
+Login
+Criar Cadastro
+Criar Login
+E-mail
+Usuário
+Telefone
